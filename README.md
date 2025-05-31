@@ -1,6 +1,8 @@
-this the readme file
+his the readme file
 and lets commit this initially
 
 writing something to learn about the braches
-dont tknow about the js yet.
+dont tknow about the js yet!
+
+hello world!
 
